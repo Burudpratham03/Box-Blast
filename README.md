@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Box Blast - Gesture Controlled Infinite Brick Breaker
 
 A Python game that uses your webcam hand gestures to control the paddle and launch the ball.
@@ -50,3 +51,7 @@ python main.py
   - `rows = min(6, 2 + level_number // 2)`
   - `cols = min(9, 6 + (level_number - 1) // 2)`
   This starts level 1 at 12 boxes and scales up gradually with each level.
+=======
+# Box-Blast
+Box Blast is a gesture-powered brick breaker game built with Python, Pygame, OpenCV, and MediaPipe. Move the paddle with your hand, pinch to launch the ball, smash health-based boxes, chain combos, and survive neon-styled levels.
+>>>>>>> 8a41551b7c90f3f01e41325546084ee75477bc96
