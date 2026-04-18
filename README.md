@@ -54,4 +54,3 @@ python main.py
 =======
 # Box-Blast
 Box Blast is a gesture-powered brick breaker game built with Python, Pygame, OpenCV, and MediaPipe. Move the paddle with your hand, pinch to launch the ball, smash health-based boxes, chain combos, and survive neon-styled levels.
->>>>>>> 8a41551b7c90f3f01e41325546084ee75477bc96
